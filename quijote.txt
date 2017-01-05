@@ -1,6 +1,8 @@
-
 En un lugar
 de la mancha
-De cuyo nombre
-CONFLICTO!!!!!!
-Habia un hidalgo no se que y no se cuanto
+<<<<<<< HEAD
+de cuyo nombre 
+no quiero acordarme
+vivia un ingenioso hidalgo
+llamado don quijote de la mancha
+>>>>>>> cac774d99cd5d042f5a4f8d8a9698ffbbdeddf89
